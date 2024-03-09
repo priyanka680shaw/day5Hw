@@ -1,0 +1,39 @@
+.diaplayMianContainer{
+    height: auto;
+    padding: 30px;
+    background-image: linear-gradient(to right, #00b09b,#96c93d,#404140);
+}
+
+.topContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 2px 0px 7px 5px white;
+    padding: 20px;
+    background-image: linear-gradient(to right, #00b09b,#96c93d,#404140);
+}
+
+input{
+    margin: 0px 10px;
+    width: 30px;
+    padding: 5px 10px;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+}
+
+button{
+    padding: 5px 10px;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+}
+.middleContainer{
+    width: 80%;
+  
+    margin: 50px  auto;
+    /* background-color: #00b09b; */
+   
+
+}
